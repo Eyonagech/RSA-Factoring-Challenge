@@ -1,1 +1,6 @@
-lkjf
+git init
+git clone https://github.com/Eyonagech/RS....
+git add READM
+git commit -m 'sdklf'
+git remote add stuff https://github.com/Eyonagech/RS....
+git push stuff
